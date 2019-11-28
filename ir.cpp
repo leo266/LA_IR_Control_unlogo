@@ -49,7 +49,6 @@ enum class RemoteButton {
 	  STAR= 0x42,
 	  NUM0 = 0x52,
 	  GRID= 0x4A*/
-	  
 	  NUM1 = 0x45,
 	  NUM2 = 0x46,
 	  NUM3 = 0x47,

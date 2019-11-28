@@ -54,7 +54,7 @@ enum class RemoteButton {
 	  NUM2 = 0x46,
 	  NUM3 = 0x47,
 	  NUM4 = 0x44,
-      NUM6 = 0x43,
+          NUM6 = 0x43,
 	  GRID = 0xd,
 	  NUM5 = 0x40,
 	  NUM0 = 0x19,
@@ -70,7 +70,7 @@ enum class RemoteButton {
 	  RIGHT = 0x5a,
 	  //NUM7 = 0x42,
 	  DOWN = 0x52,
-      //NUM9 = 0x4A,
+          //NUM9 = 0x4A,
 };
 
 //% color=50 weight=19
